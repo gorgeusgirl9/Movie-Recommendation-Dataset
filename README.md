@@ -1,5 +1,6 @@
 https://huggingface.co/spaces/gorgeus/Movie_Recommendation_Dataset
-
+https://github.com/gorgeusgirl9/Movie-Recommendation-Dataset
+https://www.kaggle.com/code/gorgeusgirl/movie-recommendation-dataset
 
 
 # 🎬 Film Öneri Sistemi (Content-Based Recommendation)
